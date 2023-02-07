@@ -6,4 +6,7 @@ html {
 p {
     background-color: purple;
 }
+img {
+    border: 1pt solid #707070;
+}
 
